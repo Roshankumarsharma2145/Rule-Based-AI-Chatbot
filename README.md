@@ -1,2 +1,25 @@
-# Rule-Based-AI-Chatbot
-This Rule-Based AI Chatbot is developed using Python and responds to user inputs based on predefined rules and conditional logic. It simulates basic human conversation through keyword matching and structured responses. The project demonstrates core programming concepts such as loops, string handling, and decision-making logic in AI.
+# 🤖 Rule-Based AI Chatbot
+
+## 📌 Project Overview
+This project is a simple rule-based chatbot developed using Python. The chatbot responds to user input based on predefined keywords and conditional logic.
+
+## 🚀 Features
+- Interactive conversation system
+- Keyword-based response handling
+- Continuous chat loop
+- Exit command functionality
+
+## 🛠 Technologies Used
+- Python
+- Conditional Statements
+- String Matching
+
+## 🎯 Learning Outcome
+- Understanding conversational flow
+- Implementation of rule-based AI logic
+- Input processing and validation
+- Basic Natural Language Processing concepts
+
+## ▶ How to Run
+```bash
+python chatbot.py
